@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Montserrat:wght@100&family=Ubuntu:wght@300&display=swap');
+body {
+  height: 100vh;
+}
+
+.input {
+  width: 360px;
+  height: min-content;
+  padding: 20px;
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+.input form input[type="submit"] {
+  font-size: 20px;
+  margin-top: 15px;
+}
+.container{
+  margin-top: auto;
+}
+.card-img{
+  width: 100%;
+}
+.btw{
+  width: 150px;
+  background: black;
+  color: white;
+  border-radius: 15px;
+  border: 2px solid black;
+  padding: 6px;
+  font-size: 17px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.btw botton:hover{
+  background: white;
+  color: black;
+  border: 2px solid black;
+}
+.jk{
+  position: absolute;
+  left: 86.5rem;
+}
